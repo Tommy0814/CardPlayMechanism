@@ -2,7 +2,7 @@
 ## Unity C# Card Game Typical UI Mechanism
 
 
-#### A typical 2D Card Play UI
+#### - A typical 2D Card Play UI
 
 
 ### Feature List:
