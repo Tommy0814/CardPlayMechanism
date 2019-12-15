@@ -1,5 +1,5 @@
-# CardPlayMechanism
-## Unity C# Card Game Typical UI Mechanism
+# Card Play Mechanism
+## Unity3D C# Card Game Typical UI Mechanism
 
 
 #### - A typical 2D Card Play UI
