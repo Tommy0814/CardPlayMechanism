@@ -7,7 +7,7 @@
 
 ### Feature List:
 * Drag and drop system
-* Insert card to the current list
+* Insert new cards to the current list
 * Current card automatically yields its position to a new card
 * Customizable result judgement
 * Scriptable Drag-N-Drop zones
@@ -15,5 +15,5 @@
 * Simple C# Code for maintainance and customization
 
 
-#### Developer: Tommy Xu ([Website Link](https://tommyxu.com/)
-#### tommyxu0814@gmail.com
+#### Developer: Tommy Xu ([Website Link](https://tommyxu.com/))
+#### Email: tommyxu0814@gmail.com
