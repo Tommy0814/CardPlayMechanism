@@ -13,3 +13,7 @@
 * Scriptable Drag-N-Drop zones
 * Customizable Card objects for different Drag-N-Drop zones
 * Simple C# Code for maintainance and customization
+
+
+#### Developer: Tommy Xu ([Website Link](https://tommyxu.com/)
+#### tommyxu0814@gmail.com
