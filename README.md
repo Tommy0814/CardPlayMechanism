@@ -15,5 +15,5 @@
 * Simple C# Code for maintainance and customization
 
 
-#### Developer: Tommy Xu ([Website Link](https://tommyxu.com/))
+#### Developer: Tommy Xu
 #### Email: tommyxu0814@gmail.com
